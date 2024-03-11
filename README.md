@@ -6,7 +6,9 @@ This is a simple project where I used a HR Employees dataset to showcase data cl
 
 ## Data Used
 **Dataset** - HR Data with +22000 rows from the year 2000 to 2020.
+
 **Data Cleaning and Analysis** - MySQL
+
 **Data Visualization** - Power BI
 
 ## Questions
